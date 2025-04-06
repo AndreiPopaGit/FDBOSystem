@@ -57,5 +57,3 @@ Au fost definite 2 resurse REST folosind Oracle ORDS:
 
 ---
 
-## 📁 Structura recomandată a repository-ului
-
